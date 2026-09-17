@@ -14,8 +14,8 @@ Account Provisioning, Security Group Access.
 </p> 
 <br /> 
 <p> 
-<img width="1140" height="232" alt="image" 
-src="https://github.com/user-attachments/assets/3729907f-f5d2-4ca9-ad2c-353c95beb72d" /> 
+<<img width="1503" height="901" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/7479878a-ffa0-4972-937e-874513b594cc" />
+> 
 </p> 
 <p> 
 Went through ticketing SLA's, updated and/or escalated each ticket, closed them out as in a IT 

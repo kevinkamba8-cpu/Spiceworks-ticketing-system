@@ -5,8 +5,8 @@ tickets from our lab environment to simulate platforms like ServiceNow or Jira.<
 <h2>Operating Systems Used </h2> - Windows 11 
 <h2>Created Tickets in SpiceWorks - Worked - Closed</h2> 
 <p> 
-<img width="1202" height="516" alt="image" 
-src="https://github.com/user-attachments/assets/879b705e-75de-45ee-a60e-09995ce9f5b8" /> 
+<<img width="1514" height="881" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/6f1f17f0-9dba-4bd7-b4d0-0276d6ea309d" />
+> 
 </p> 
 <p> 
 Created tickets for Slow Computer, Microsoft Issue, Print Queue, Network Troubleshooting, 
